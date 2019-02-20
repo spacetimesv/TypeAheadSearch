@@ -1,0 +1,7 @@
+process-file data/file1.500.txt
+query #
+query @
+query !
+query "
+query
+quit

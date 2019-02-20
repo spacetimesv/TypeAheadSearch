@@ -1,0 +1,4 @@
+process-file data/file1.bad.txt
+query 
+query
+quit

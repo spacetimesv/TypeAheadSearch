@@ -1,0 +1,16 @@
+2008	US	CApple Starship1 Troopers 3
+2008	US	DBBB Ship1 Troopers 3
+2011	US	CCStarship Troopers 3000
+2008	US	EApple Starship1 Troopers 3
+2008	US	EEBBB Ship1 Troopers 3
+2011	US	FStarship Troopers 3000
+2008	US	FaaApple Starship1 Troopers 3
+2008	US	F111BBB Ship1 Troopers 3
+2011	US	GG Starship Troopers 3000
+2008	US	Ggg CApple Starship1 Troopers 3
+2008	US	Hhh DBBB Ship1 Troopers 3
+2011	US	h CCStarship Troopers 3000
+2008	US	t CApple Starship1 Troopers 3
+2008	US	tttt DBBB Ship1 Troopers 3
+2011	US	tr CCStarship Troopers 3000
+2008	US	m CApple Starship1 Troopers 3

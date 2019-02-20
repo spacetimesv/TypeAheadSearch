@@ -1,0 +1,18 @@
+process-file data/file1.500.txt
+query
+query st
+query t
+process-file data/file1.txt
+process-file data/file1.200.txt
+query Pl
+query tr
+query s
+query -
+process-file data/file1.400.txt
+query pl
+query st
+query s
+process-file data/file1.300.txt
+query -
+query
+quit

@@ -1,0 +1,8 @@
+process-file data/file1.txt
+query zzz
+query
+query
+query st
+query t
+query zzz
+quit

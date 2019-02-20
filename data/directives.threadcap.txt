@@ -1,0 +1,25 @@
+process-file data/file1.txt
+process-file data/file1.100.txt
+process-file data/file1.200.txt
+process-file data/file1.300.txt
+process-file data/file1.500.txt
+process-file data/file1.400.txt
+query q
+query q
+query q
+query q
+query
+query
+query
+query
+query
+query
+query st
+query t
+query
+query x
+query -
+query q
+query
+bad-command
+quit

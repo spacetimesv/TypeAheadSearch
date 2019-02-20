@@ -1,0 +1,5 @@
+process-filexxx data/file1.txt
+query <>
+querying
+query ""
+#quit
